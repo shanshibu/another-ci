@@ -28,7 +28,7 @@ jobs:
 
       # Step 3: Run Python program
       - name: Run addition program
-        run: python addition.py
+        run: python test.py
 
       # Step 4: Test addition function
       - name: Test addition
